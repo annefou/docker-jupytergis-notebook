@@ -4,7 +4,7 @@ Docker JupyterGIS Container
 This [Jupyter](http://jupyter.org/) Docker container is used by the [Galaxy Project](https://galaxyproject.org/).
 
 ```bash
-docker pull annefou/docker-jupytergis-notebook
+docker pull quay.io/quay.io/annefou/docker-jupytergis-notebook
 ```
 
 Usage
